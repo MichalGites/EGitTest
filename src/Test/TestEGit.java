@@ -10,6 +10,8 @@ public class TestEGit {
 		// co jest nie tak????????//
 		
 		System.out.println("WTF????????");
+		
+		//kasfkdfksdksfsdjksdfjsdjsdjk
 
 	}
 
