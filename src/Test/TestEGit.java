@@ -8,6 +8,8 @@ public class TestEGit {
 		System.out.println("Testujemy egita!");
 		
 		// co jest nie tak????????//
+		
+		System.out.println("WTF????????");
 
 	}
 
