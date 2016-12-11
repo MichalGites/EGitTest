@@ -6,6 +6,8 @@ public class TestEGit {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Testujemy egita!");
+		
+		// co jest nie tak????????//
 
 	}
 
